@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an AI application?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An AI application uses machine learning or large language models to automate tasks, analyze data, or generate outputs based on user input."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do AI apps handle user data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI apps process user data through controlled pipelines, including validation, filtering, and secure storage to prevent leakage and misuse."
+      }
+    }
+  ]
+}
