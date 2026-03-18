@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "LangProtect AI Security Platform",
+  "applicationCategory": "SecurityApplication",
+  "operatingSystem": "Web",
+  "description": "AI security platform to detect prompt injection, data leakage, and unauthorized AI usage across enterprise systems.",
+  "offers": {
+    "@type": "Offer",
+    "price": "Custom",
+    "priceCurrency": "USD"
+  }
+}
